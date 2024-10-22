@@ -1,0 +1,15 @@
+datasets==2.19.1
+deep_translator==1.11.4
+fastapi==0.111.0
+groq==0.5.0
+ipython==8.12.3
+matplotlib==3.9.0
+numpy==1.23.5
+pydantic==2.7.1
+python-dotenv==1.0.1
+torch==2.3.0
+tqdm==4.66.2
+transformers==4.40.2
+uvicorn==0.29.0
+pytest
+httpx

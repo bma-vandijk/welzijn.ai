@@ -1,0 +1,7 @@
+venv/*
+.env
+__pycache__/*
+Models/*
+!Models/.gitkeep
+myvenv/*
+groq_api_key.txt

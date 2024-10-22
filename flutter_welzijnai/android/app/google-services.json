@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115948612340",
+    "project_id": "welzijnai-faa46",
+    "storage_bucket": "welzijnai-faa46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115948612340:android:2c2393dccf5e4f4024cca1",
+        "android_client_info": {
+          "package_name": "com.example.welzijnai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVgmW9723miLQfKo0KApp8Vg2nlARHHFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
