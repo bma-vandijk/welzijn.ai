@@ -9,5 +9,10 @@ This is an app that monitors the well-being of the patients with the help of a c
 - Result Monitoring: Scaled questionnaire results for health professionals.
 - Humorous Responses: Designed to be light-hearted and humorous to maintain user engagement.
 
-# File structure
-The "flutter_welzijnai" folder contains the flutter application and the folder "backend" contains the backend. The other folders are not relevant to the end product however we kept them in to showcase our progress. 
+# How to use
+First install the backend using the readme in the eponymous folder. Then install flutter and all of its dependencies for running apps on Android, following the readme in flutter_welzijnai folder and pointers to flutter documentation etc. 
+
+Once all of the installation is done, start the backend server in docker. Then, in vscode, select an virtual android device, and in flutter_welzijnai > lib go to main.dart and run the app/start debugging on the device.    
+
+# App design by SE 
+Credits for this app go to LIACS Software engineering group '23-'24 group MKurae, vrinda-v, TimH149, Sejidz, villathalia, slaupschoeter, NikitaZelenskis, and gang-star. See for more info https://ludev.nl/.
