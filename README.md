@@ -11,8 +11,9 @@ This is an app that monitors the well-being of the patients with the help of a c
 
 # How to use
 First install the backend using the readme in the eponymous folder. Then install flutter and all of its dependencies for running apps on Android, following the readme in flutter_welzijnai folder and pointers to flutter documentation etc. 
-
 Once all of the installation is done, start the backend server in docker. Then, in vscode, select an virtual android device, and in flutter_welzijnai > lib go to main.dart and run the app/start debugging on the device.    
+
+Note that you also need the place the pickle with weights of the reading comprehension model in backend > Models, send an email to b.m.a.van.dijk@liacs.leidenuniv.nl to get a download link.
 
 # App design by SE 
 Credits for this app go to LIACS Software engineering group '23-'24 group MKurae, vrinda-v, TimH149, Sejidz, villathalia, slaupschoeter, NikitaZelenskis, and gang-star. See for more info https://ludev.nl/.
